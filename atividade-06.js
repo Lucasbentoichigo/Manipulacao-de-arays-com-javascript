@@ -11,6 +11,6 @@ let mensagens = [
 
 let mensagemExcluida = mensagens.shift();
 
-console.log(`Mensagens Enviadas atualizadas: ${mensagens}`);
+console.log("Mensagens Enviadas atualizadas" , mensagens);
 console.log(`Mensagem excluída: ${mensagemExcluida}`);
 
